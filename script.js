@@ -136,6 +136,11 @@ function render(data) {
     a.href = links.linkedin; a.target = "_blank"; a.rel = "noopener noreferrer";
     contactLinks.appendChild(a);
   }
+  if (links.instagram) {
+    const a = el("a", { text: "Instagram" });
+    a.href = links.instagram; a.target = "_blank"; a.rel = "noopener noreferrer";
+    contactLinks.appendChild(a);
+  }
   if (data.cvFile) {
     const a = el("a", { text: "Download CV" });
     a.href = data.cvFile; a.setAttribute("download", "");
