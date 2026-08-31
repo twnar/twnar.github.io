@@ -4,10 +4,10 @@
   "location": "Baku, Azerbaijan",
   "email": "twnarx@gmail.com",
   "phone": "+994 55 232 88 53",
-  "school": "School No. 85, Baku — GPA 5.0 / 5.0",
+  "school": "School No. 85 — GPA 5.0 / 5.0",
   "summary": "11th-grade student pursuing independent work at the intersection of artificial intelligence and computational mathematics. Selected as one of four students nationwide to represent Azerbaijan at the International Olympiad in Artificial Intelligence (IOAI), earning a Gold Medal at the National Round. Research in algorithmic number theory received national recognition at ISEF, while an applied computational project received NASA's Galactic Problem Solver award. Seeking to build on this research-driven foundation through rigorous undergraduate study in Computer Science and Artificial Intelligence.",
 
-  "cvFile": "assets/0001_CV_Tunar_Ahmadzada.pdf",
+  "cvFile": "assets/Tunar_Ahmadzada_CV.pdf",
 
   "skills": [
     "Python Programming",
@@ -42,29 +42,37 @@
 
   "experience": [
     {
+      "role": "Delegate & Participant",
+      "org": "International Olympiad in Artificial Intelligence (IOAI) — Astana, Kazakhstan",
+      "period": "Aug 2026",
+      "points": [
+        "Represented Azerbaijan's National Team after earning a Gold Medal at the National Round; selected as 1 of 4 students nationwide to advance to the international round."
+      ]
+    },
+    {
+      "role": "Participant",
+      "org": "Leva Mathematical Camp (LMK) — Leva Science Community, Türkiye (Remote)",
+      "period": "Aug 2026 – Present",
+      "points": [
+        "Completed a two-stage admissions process for an online cultural and academic exchange program with participants from middle school through university level across multiple countries."
+      ]
+    },
+    {
       "role": "Local Lead",
       "org": "NASA Space Apps Challenge — Mingachevir, Azerbaijan",
-      "period": "2026 – Present",
+      "period": "July 2026 – Present",
       "points": [
         "Lead the Mingachevir Local Event of the NASA International Space Apps Challenge, a global hackathon engaging 480,000+ participants across 190+ countries since 2012.",
-        "Direct the local chapter's two-day hackathon, coordinating outreach, mentorship, and judging with NASA's Global Organizing Team."
+        "Direct the local chapter's two-day hackathon, coordinating outreach, mentorship, and judging with NASA's Global Organizing Team to connect Azerbaijani innovators with NASA's open data and Space Agency Partners."
       ]
     },
     {
       "role": "Co-Founder & Community Administrator",
       "org": "Texnosfer",
-      "period": "2026 – Present",
+      "period": "June 2026 – Present",
       "points": [
         "Co-founded and administer a nonprofit technology community offering free webinars, seminars, and problem-solving discussions to tech enthusiasts of all ages.",
         "Run free, open-to-all competitions with prizes for community members."
-      ]
-    },
-    {
-      "role": "National Ambassador",
-      "org": "International Youth Math Challenge (IYMC) — Baku, Azerbaijan",
-      "period": "2026 – Present",
-      "points": [
-        "Spearheaded local promotion and organized peer study groups, guiding participants through the Qualification and Pre-Final rounds of a competition spanning 100+ countries."
       ]
     },
     {
@@ -76,25 +84,17 @@
       ]
     },
     {
-      "role": "Delegate & Participant",
-      "org": "International Olympiad in Artificial Intelligence (IOAI)",
-      "period": "2026",
+      "role": "National Ambassador",
+      "org": "International Youth Math Challenge (IYMC) — Baku, Azerbaijan",
+      "period": "Mar 2026 – Present",
       "points": [
-        "Represented Azerbaijan's National Team after earning a Gold Medal at the National Round; selected as 1 of 4 students nationwide to advance to the international round."
+        "Spearheaded local promotion and organized peer study groups, guiding participants through the Qualification and Pre-Final rounds of a mathematics competition spanning 100+ countries."
       ]
     },
     {
       "role": "Participant",
-      "org": "Leva Culture Camp (LKK) — Leva Science Community, Türkiye (Remote)",
-      "period": "Aug 2026 – Present",
-      "points": [
-        "Completed a two-stage admissions process for an online cultural and academic exchange program with participants from middle school through university level."
-      ]
-    },
-    {
-      "role": "Participant",
-      "org": "Leva \"First Round\" Virtual Mathematics Camp — LBAK, Türkiye (Remote)",
-      "period": "2026 – Present",
+      "org": "Leva \"First Round\" Virtual Mathematics Camp — Leva Science Community, Türkiye (Remote)",
+      "period": "Feb 2026 – July 2026",
       "points": [
         "Engaged in a competitive national training camp emphasizing mathematical proof techniques and olympiad-level problem solving."
       ]
@@ -102,14 +102,12 @@
   ],
 
   "awards": [
-    { "title": "International Olympiad in Artificial Intelligence (IOAI), National Round", "detail": "Gold Medal — selected as 1 of 4 students nationwide to represent Azerbaijan at the international round", "year": "2026" },
-    { "title": "Scientists of Future XV (ISEF National Round)", "detail": "Bronze Medal, Mathematics", "year": "2026" },
-    { "title": "NASA Space Apps Challenge", "detail": "Galactic Problem Solver Award, Global Hackathon", "year": "2025" },
-    { "title": "Azerbaijan National Astronomy Olympiad", "detail": "Finalist", "year": "2026" },
-    { "title": "Republic Science Olympiads", "detail": "Semi-Finalist — Mathematics, Computer Science, Physics, Chemistry", "year": "2024–2026" },
-    { "title": "Azerbaijan Philosophy Olympiad (IPO National Stage)", "detail": "Silver Medal", "year": "2026" },
-    { "title": "Azerbaijan National Economics Olympiad (IEO National Stage)", "detail": "Bronze Medal", "year": "2026" },
-    { "title": "Azerbaijan National Olympiad in Statistics", "detail": "Finalist", "year": "2025" }
+    { "title": "International Olympiad in Artificial Intelligence (IOAI), National Round", "detail": "Gold Medal", "year": "2026" },
+    { "title": "International Philosophy Olympiad (IPO), National Round", "detail": "Silver Medal", "year": "2026" },
+    { "title": "International Economics Olympiad (IEO), National Round", "detail": "Bronze Medal", "year": "2026" },
+    { "title": "International Science and Engineering Fair (ISEF), National Round", "detail": "Bronze Medal", "year": "2026" },
+    { "title": "NASA Space Apps Challenge", "detail": "Galactic Problem Solver", "year": "2025" },
+    { "title": "National Science Olympiads", "detail": "Finalist — Astronomy, Statistics (2025–2026); Semi-Finalist — Mathematics, Computer Science, Physics, Chemistry (2023–2026)", "year": "2023–2026" }
   ],
 
   "certifications": [
