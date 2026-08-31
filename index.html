@@ -1,32 +1,104 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Tunar Ahmadzada</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tunar Ahmadzada — Portfolio</title>
+<meta name="description" content="Portfolio of Tunar Ahmadzada — student researcher in AI and computational mathematics.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<h1>Tunar Ahmadzada</h1>
+<div class="grain"></div>
 
-<p>AI • Machine Learning • Computer Science</p>
+<header class="hero">
+  <div class="hero-inner">
+    <p class="hero-eyebrow" id="hero-location">Baku, Azerbaijan</p>
+    <h1 class="hero-name" id="hero-name">Tunar Ahmadzada</h1>
+    <p class="hero-tagline" id="hero-tagline"></p>
+    <div class="hero-actions">
+      <a href="#" class="btn btn-primary" id="cv-link" download>Download CV</a>
+      <a href="#contact" class="btn btn-ghost">Get in touch</a>
+    </div>
+  </div>
+  <div class="hero-mark" aria-hidden="true">
+    <svg viewBox="0 0 200 200" width="100%" height="100%">
+      <circle cx="100" cy="100" r="98" fill="none" stroke="currentColor" stroke-width="0.75"/>
+      <path d="M100 6 L100 194 M6 100 L194 100" stroke="currentColor" stroke-width="0.4" opacity="0.5"/>
+      <circle cx="100" cy="100" r="60" fill="none" stroke="currentColor" stroke-width="0.4" opacity="0.6"/>
+    </svg>
+  </div>
+</header>
 
-<h2>About Me</h2>
-<p>
-High school student from Azerbaijan interested in
-Artificial Intelligence, Machine Learning,
-Computer Vision and Robotics.
-</p>
+<main>
 
-<h2>Projects</h2>
+  <section class="section" id="about">
+    <div class="section-inner">
+      <h2 class="section-title">About</h2>
+      <p class="lede" id="summary-text"></p>
+      <ul class="skills-list" id="skills-list"></ul>
+    </div>
+  </section>
 
-<ul>
-<li>Readooner</li>
-<li>NASA Space Apps Challenge</li>
-<li>Machine Learning Projects</li>
-</ul>
+  <section class="section section-alt" id="projects">
+    <div class="section-inner">
+      <div class="section-head-row">
+        <h2 class="section-title">Projects</h2>
+        <p class="section-note">Editable in <code>data.json</code> — add or remove entries anytime.</p>
+      </div>
+      <div class="project-grid" id="projects-list"></div>
+    </div>
+  </section>
 
-<h2>Resume</h2>
+  <section class="section" id="experience">
+    <div class="section-inner">
+      <h2 class="section-title">Experience</h2>
+      <div class="timeline" id="experience-list"></div>
+    </div>
+  </section>
 
-<a href="resume.pdf">Download Resume</a>
+  <section class="section section-alt" id="awards">
+    <div class="section-inner">
+      <h2 class="section-title">Honors &amp; Awards</h2>
+      <ul class="awards-list" id="awards-list"></ul>
+    </div>
+  </section>
 
+  <section class="section" id="more">
+    <div class="section-inner more-grid">
+      <div>
+        <h3 class="sub-title">Certifications</h3>
+        <ul class="plain-list" id="certs-list"></ul>
+      </div>
+      <div>
+        <h3 class="sub-title">Languages</h3>
+        <ul class="plain-list" id="languages-list"></ul>
+      </div>
+      <div>
+        <h3 class="sub-title">Hobbies</h3>
+        <p class="hobbies-text" id="hobbies-text"></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-contact" id="contact">
+    <div class="section-inner">
+      <h2 class="section-title">Get in touch</h2>
+      <p class="lede">Open to research collaborations, olympiad teams, and undergraduate opportunities in computer science and artificial intelligence.</p>
+      <div class="contact-links" id="contact-links"></div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p id="footer-name"></p>
+  <p class="footer-note">Built as a static site — edit <code>data.json</code> to update content.</p>
+</footer>
+
+<script src="script.js"></script>
 </body>
 </html>

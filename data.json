@@ -1,0 +1,134 @@
+{
+  "name": "Tunar Ahmadzada",
+  "tagline": "11th-grade researcher working at the intersection of artificial intelligence and computational mathematics",
+  "location": "Baku, Azerbaijan",
+  "email": "twnarx@gmail.com",
+  "phone": "+994 55 232 88 53",
+  "school": "School No. 85, Baku — GPA 5.0 / 5.0",
+  "summary": "11th-grade student pursuing independent work at the intersection of artificial intelligence and computational mathematics. Selected as one of four students nationwide to represent Azerbaijan at the International Olympiad in Artificial Intelligence (IOAI), earning a Gold Medal at the National Round. Research in algorithmic number theory received national recognition at ISEF, while an applied computational project received NASA's Galactic Problem Solver award. Seeking to build on this research-driven foundation through rigorous undergraduate study in Computer Science and Artificial Intelligence.",
+
+  "cvFile": "assets/Tunar_Ahmadzada_CV.pdf",
+
+  "skills": [
+    "Python Programming",
+    "Machine Learning",
+    "Arduino & Robotics",
+    "Mathematics",
+    "Event Coordination",
+    "Community Engagement",
+    "Collaboration Techniques",
+    "Ethical Judgment",
+    "Volunteer Leadership"
+  ],
+
+  "projects": [
+    {
+      "title": "Common Divisibility Framework for Prime Numbers",
+      "tag": "ISEF National Round — Mathematics",
+      "year": "2026",
+      "description": "Researched divisibility properties of prime numbers and developed a single generalized algorithm capable of determining divisibility by any positive integer, unifying classical divisor-specific rules into one method. Presented at Azerbaijan's national ISEF qualifying round, earning a Bronze Medal in Mathematics against republic-level candidates.",
+      "link": "https://doi.org/10.5281/zenodo.21335786",
+      "linkLabel": "Read the preprint"
+    },
+    {
+      "title": "Space Debris Recycling System",
+      "tag": "NASA Space Apps Challenge — Global Hackathon",
+      "year": "2025",
+      "description": "Designed a device concept for the efficient, sustainable management of space debris, enabling in-orbit debris to be repurposed as raw material and 3D-printed on-site into spare parts needed for spacecraft and station maintenance. Built the computational solution within a 48-hour international hackathon, applying data analysis and rapid-prototyping methods to model the debris-to-part production workflow. Awarded the \"Galactic Problem Solver\" distinction.",
+      "link": "",
+      "linkLabel": "View project"
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Local Lead",
+      "org": "NASA Space Apps Challenge — Mingachevir, Azerbaijan",
+      "period": "2026 – Present",
+      "points": [
+        "Lead the Mingachevir Local Event of the NASA International Space Apps Challenge, a global hackathon engaging 480,000+ participants across 190+ countries since 2012.",
+        "Direct the local chapter's two-day hackathon, coordinating outreach, mentorship, and judging with NASA's Global Organizing Team."
+      ]
+    },
+    {
+      "role": "Co-Founder & Community Administrator",
+      "org": "Texnosfer",
+      "period": "2026 – Present",
+      "points": [
+        "Co-founded and administer a nonprofit technology community offering free webinars, seminars, and problem-solving discussions to tech enthusiasts of all ages.",
+        "Run free, open-to-all competitions with prizes for community members."
+      ]
+    },
+    {
+      "role": "National Ambassador",
+      "org": "International Youth Math Challenge (IYMC) — Baku, Azerbaijan",
+      "period": "2026 – Present",
+      "points": [
+        "Spearheaded local promotion and organized peer study groups, guiding participants through the Qualification and Pre-Final rounds of a competition spanning 100+ countries."
+      ]
+    },
+    {
+      "role": "Volunteer Judge",
+      "org": "Technovation Girls",
+      "period": "Apr 2026 – Jun 2026",
+      "points": [
+        "Evaluated mobile application submissions for a global entrepreneurship competition spanning 50+ countries; earned Technovation's Gold Certificate for excellence in evaluation and mentorship."
+      ]
+    },
+    {
+      "role": "Delegate & Participant",
+      "org": "International Olympiad in Artificial Intelligence (IOAI)",
+      "period": "2026",
+      "points": [
+        "Represented Azerbaijan's National Team after earning a Gold Medal at the National Round; selected as 1 of 4 students nationwide to advance to the international round."
+      ]
+    },
+    {
+      "role": "Participant",
+      "org": "Leva Culture Camp (LKK) — Leva Science Community, Türkiye (Remote)",
+      "period": "Aug 2026 – Present",
+      "points": [
+        "Completed a two-stage admissions process for an online cultural and academic exchange program with participants from middle school through university level."
+      ]
+    },
+    {
+      "role": "Participant",
+      "org": "Leva \"First Round\" Virtual Mathematics Camp — LBAK, Türkiye (Remote)",
+      "period": "2026 – Present",
+      "points": [
+        "Engaged in a competitive national training camp emphasizing mathematical proof techniques and olympiad-level problem solving."
+      ]
+    }
+  ],
+
+  "awards": [
+    { "title": "International Olympiad in Artificial Intelligence (IOAI), National Round", "detail": "Gold Medal — selected as 1 of 4 students nationwide to represent Azerbaijan at the international round", "year": "2026" },
+    { "title": "Scientists of Future XV (ISEF National Round)", "detail": "Bronze Medal, Mathematics", "year": "2026" },
+    { "title": "NASA Space Apps Challenge", "detail": "Galactic Problem Solver Award, Global Hackathon", "year": "2025" },
+    { "title": "Azerbaijan National Astronomy Olympiad", "detail": "Finalist", "year": "2026" },
+    { "title": "Republic Science Olympiads", "detail": "Semi-Finalist — Mathematics, Computer Science, Physics, Chemistry", "year": "2024–2026" },
+    { "title": "Azerbaijan Philosophy Olympiad (IPO National Stage)", "detail": "Silver Medal", "year": "2026" },
+    { "title": "Azerbaijan National Economics Olympiad (IEO National Stage)", "detail": "Bronze Medal", "year": "2026" },
+    { "title": "Azerbaijan National Olympiad in Statistics", "detail": "Finalist", "year": "2025" }
+  ],
+
+  "certifications": [
+    { "name": "Elements of AI", "org": "University of Helsinki" },
+    { "name": "Programming for Everybody", "org": "University of Michigan" },
+    { "name": "Arduino & Microcontrollers (MCUs)", "org": "METU (ODTÜ)" }
+  ],
+
+  "languages": [
+    { "name": "Azerbaijani", "level": "Native" },
+    { "name": "Turkish", "level": "Fluent" },
+    { "name": "English", "level": "Fluent" }
+  ],
+
+  "hobbies": ["Plant Growing & Gardening", "Violin", "Piano", "Cooking"],
+
+  "links": {
+    "email": "mailto:twnarx@gmail.com",
+    "github": "",
+    "linkedin": ""
+  }
+}
