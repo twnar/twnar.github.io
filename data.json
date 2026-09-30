@@ -4,7 +4,7 @@
   "location": "Baku, Azerbaijan",
   "email": "twnarx@gmail.com",
   "phone": "+994 55 232 88 53",
-  "school": "School No. 85 — GPA 5.0 / 5.0",
+  "school": "High School No. 85 — GPA 5 of 5",
   "summary": "11th-grade student pursuing independent work at the intersection of artificial intelligence and computational mathematics. Selected as one of four students nationwide to represent Azerbaijan at the International Olympiad in Artificial Intelligence (IOAI), earning a Gold Medal at the National Round. Research in algorithmic number theory received national recognition at ISEF, while an applied computational project received NASA's Galactic Problem Solver award. Seeking to build on this research-driven foundation through rigorous undergraduate study in Computer Science and Artificial Intelligence.",
 
   "cvFile": "00001_CV_Tunar_Ahmadzada.PDF",
@@ -22,6 +22,14 @@
   ],
 
   "projects": [
+    {
+      "title": "NeuroQuit: An EEG-Based Wearable for Early Nicotine Craving Detection",
+      "tag": "Team project — The Junior Academy, The New York Academy of Sciences",
+      "year": "2026",
+      "description": "Proposed a non-invasive, ear-worn EEG wearable that uses AI to detect early nicotine craving before smoking occurs, addressing the gap that most cessation methods intervene only after a person has decided to smoke. Designed a multimodal approach: per-user calibration on baseline and controlled-craving EEG data, machine-learning analysis of alpha and theta activity, and fusion with heart rate and galvanic skin response to reduce false alerts. Concept includes real-time voice prompts and daily craving reports for users and clinicians, with evaluation planned on detection accuracy, precision, recall, and false-alert rate; positioned as an assistive intervention, not a cure. ",
+      "link": "",
+      "linkLabel": "View the project"
+    },
     {
       "title": "Common Divisibility Framework for Prime Numbers",
       "tag": "ISEF National Round — Mathematics",
@@ -114,6 +122,7 @@
     { "title": "International Philosophy Olympiad (IPO), National Round", "detail": "Silver Medal", "year": "2026" },
     { "title": "International Economics Olympiad (IEO), National Round", "detail": "Bronze Medal", "year": "2026" },
     { "title": "International Science and Engineering Fair (ISEF), National Round", "detail": "Bronze Medal", "year": "2026" },
+    { "title": "International AI Challenge for Children and Youth, Main Stage", "detail": "Finalist (final results pending)", "year": "2026" },
     { "title": "NASA Space Apps Challenge", "detail": "Galactic Problem Solver", "year": "2025" },
     { "title": "National Science Olympiads", "detail": "Finalist — Astronomy, Statistics (2025–2026); Semi-Finalist — Mathematics, Computer Science, Physics, Chemistry (2023–2026)", "year": "2023–2026" }
   ],
