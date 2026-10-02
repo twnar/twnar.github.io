@@ -129,7 +129,8 @@
 
   "certifications": [
     { "name": "Elements of AI", "org": "University of Helsinki" },
-    { "name": "Programming for Everybody", "org": "University of Michigan" },
+    { "name": "Machine Learning Introduction for Everyone (Coursera)", "org": "IBM" },
+    { "name": "Programming for Everybody (Coursera)", "org": "University of Michigan" },
     { "name": "Arduino & Microcontrollers (MCUs)", "org": "METU (ODTÜ)" }
   ],
 
