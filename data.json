@@ -21,6 +21,16 @@
     "Volunteer Leadership"
   ],
 
+  "awards": [
+    { "title": "International Olympiad in Artificial Intelligence (IOAI), National Round", "detail": "Gold Medal (Ranked #3 of 2,800+)", "year": "2026" },
+    { "title": "International Philosophy Olympiad (IPO), National Round", "detail": "Silver Medal", "year": "2026" },
+    { "title": "International Economics Olympiad (IEO), National Round", "detail": "Bronze Medal", "year": "2026" },
+    { "title": "International Science and Engineering Fair (ISEF), National Round", "detail": "Bronze Medal (1,500+ participants)", "year": "2026" },
+    { "title": "International AI Challenge for Children and Youth, Main Stage", "detail": "Finalist (ongoing, 10,000+ participants)", "year": "2026" },
+    { "title": "NASA Space Apps Challenge", "detail": "Galactic Problem Solver (114,000+ participants)", "year": "2025" },
+    { "title": "National Science Olympiads", "detail": "Finalist — Astronomy, Statistics (2025–2026); Semi-Finalist — Mathematics, Computer Science, Physics, Chemistry (2023–2026)", "year": "2023–2026" }
+  ],
+
   "projects": [
     {
       "title": "NeuroQuit: An EEG-Based Wearable for Early Nicotine Craving Detection",
@@ -114,15 +124,7 @@
   }
   ],
 
-  "awards": [
-    { "title": "International Olympiad in Artificial Intelligence (IOAI), National Round", "detail": "Gold Medal (Ranked #3 of 2,800+)", "year": "2026" },
-    { "title": "International Philosophy Olympiad (IPO), National Round", "detail": "Silver Medal", "year": "2026" },
-    { "title": "International Economics Olympiad (IEO), National Round", "detail": "Bronze Medal", "year": "2026" },
-    { "title": "International Science and Engineering Fair (ISEF), National Round", "detail": "Bronze Medal (1,500+ participants)", "year": "2026" },
-    { "title": "International AI Challenge for Children and Youth, Main Stage", "detail": "Finalist (ongoing, 10,000+ participants)", "year": "2026" },
-    { "title": "NASA Space Apps Challenge", "detail": "Galactic Problem Solver (114,000+ participants)", "year": "2025" },
-    { "title": "National Science Olympiads", "detail": "Finalist — Astronomy, Statistics (2025–2026); Semi-Finalist — Mathematics, Computer Science, Physics, Chemistry (2023–2026)", "year": "2023–2026" }
-  ],
+
 
   "certifications": [
     { "name": "Elements of AI", "org": "University of Helsinki" },
