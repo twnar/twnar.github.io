@@ -49,72 +49,69 @@
   ],
 
   "experience": [
-    {
-      "role": "Member",
-      "org": "The Junior Academy — The New York Academy of Sciences",
-      "period": "Sep 2026 – Present",
-      "points": [
-        "Selected as a member of a global community of high-achieving high school students, collaborating on interdisciplinary projects addressing real-world challenges."      
-      ]
-    },
-    {
-      "role": "Delegate & Participant",
-      "org": "International Olympiad in Artificial Intelligence (IOAI) — Astana, Kazakhstan",
-      "period": "Aug 2026",
-      "points": [
-        "Represented Azerbaijan's National Team after earning a Gold Medal at the National Round; selected as 1 of 4 students nationwide to advance to the international round."
-      ]
-    },
-    {
-      "role": "Participant",
-      "org": "Leva Mathematical Camp (LMK) — Leva Science Community, Türkiye (Remote)",
-      "period": "Aug 2026 – Present",
-      "points": [
-        "Completed a two-stage admissions process for an online cultural and academic exchange program with participants from middle school through university level across multiple countries."
-      ]
-    },
-    {
-      "role": "Local Lead",
-      "org": "NASA Space Apps Challenge — Mingachevir, Azerbaijan",
-      "period": "July 2026 – Present",
-      "points": [
-        "Lead the Mingachevir Local Event of the NASA International Space Apps Challenge, a global hackathon engaging 480,000+ participants across 190+ countries since 2012.",
-        "Direct the local chapter's two-day hackathon, coordinating outreach, mentorship, and judging with NASA's Global Organizing Team to connect Azerbaijani innovators with NASA's open data and Space Agency Partners."
-      ]
-    },
-    {
-      "role": "Community Administrator",
-      "org": "Texnosfer",
-      "period": "June 2026 – Present",
-      "points": [
-        "Co-founded and administer a nonprofit technology community offering free webinars, seminars, and problem-solving discussions to tech enthusiasts of all ages.",
-        "Run free, open-to-all competitions with prizes for community members."
-      ]
-    },
-    {
-      "role": "Volunteer Judge",
-      "org": "Technovation Girls",
-      "period": "Apr 2026 – Jun 2026",
-      "points": [
-        "Evaluated mobile application submissions for a global entrepreneurship competition spanning 50+ countries; earned Technovation's Gold Certificate for excellence in evaluation and mentorship."
-      ]
-    },
-    {
-      "role": "National Ambassador",
-      "org": "International Youth Math Challenge (IYMC) — Baku, Azerbaijan",
-      "period": "Mar 2026 – Present",
-      "points": [
-        "Spearheaded local promotion and organized peer study groups, guiding participants through the Qualification and Pre-Final rounds of a mathematics competition spanning 100+ countries."
-      ]
-    },
-    {
-      "role": "Participant",
-      "org": "Leva \"First Round\" Virtual Mathematics Camp — Leva Science Community, Türkiye (Remote)",
-      "period": "Feb 2026 – July 2026",
-      "points": [
-        "Engaged in a competitive national training camp emphasizing mathematical proof techniques and olympiad-level problem solving."
-      ]
-    }
+  {
+    "role": "Member",
+    "org": "The Junior Academy — The New York Academy of Sciences",
+    "period": "Sep 2026 – Present",
+    "points": [
+      "Selected for an application-based program that places high school students from around the world into international teams guided by STEM mentors, with the aim of preparing the next generation of innovators.",
+      "Collaborate across countries in 10-week virtual Innovation Challenges: researching, designing, testing, and pitching solutions to real-world problems; currently developing NeuroQuit (see Projects)."
+    ]
+  },
+  {
+    "role": "Delegate & Participant",
+    "org": "International Olympiad in Artificial Intelligence (IOAI) — Astana, Kazakhstan",
+    "period": "Aug 2026",
+    "points": [
+      "Represented Azerbaijan's National Team after earning a Gold Medal at the National Round; selected as 1 of 4 students nationwide to advance to the international round.",
+      "Competed at the third IOAI (2–8 Aug 2026), which brought together 466 students from 108 countries and territories, making it the second-largest international science olympiad after the IMO and one centered on hands-on AI problem solving."
+    ]
+  },
+  {
+    "role": "Participant",
+    "org": "Leva Mathematical Camp (LMK) — Leva Science Community, Türkiye (Remote)",
+    "period": "Aug 2026 – Present",
+    "points": [
+      "Admitted to a virtual mathematics camp run by a nonprofit science community after a three-stage selection process; an online cultural and academic exchange with participants from middle school through university level across multiple countries.",
+      "Work on olympiad-style problems and develop mathematical thinking through peer learning with fellow participants."
+    ]
+  },
+  {
+    "role": "Local Lead",
+    "org": "NASA Space Apps Challenge — Mingachevir, Azerbaijan",
+    "period": "July 2026 – Present",
+    "points": [
+      "Lead the Mingachevir Local Event of the NASA International Space Apps Challenge, an annual global hackathon (480,000+ participants across 190+ countries since 2012) where teams use NASA's open data to tackle real challenges on Earth and in space.",
+      "Direct the local chapter's two-day hackathon, coordinating outreach, mentorship, and judging with NASA's Global Organizing Team to connect Azerbaijani innovators with NASA's open data and Space Agency Partners."
+    ]
+  },
+  {
+    "role": "Co-Founder & Community Administrator",
+    "org": "Texnosfer",
+    "period": "June 2026 – Present",
+    "points": [
+      "Co-founded and administer a nonprofit technology community offering free webinars, seminars, and problem-solving discussions to tech enthusiasts of all ages.",
+      "Run free, open-to-all competitions with prizes for community members, with the goal of making technology learning accessible regardless of age or background."
+    ]
+  },
+  {
+    "role": "Volunteer Judge",
+    "org": "Technovation Girls",
+    "period": "Apr 2026 – Jun 2026",
+    "points": [
+      "Evaluated mobile application submissions in Technovation Girls, the world's largest technology-entrepreneurship competition for girls (370,000+ participants across 120+ countries), giving teams scores and feedback in support of its mission to close the gender gap in technology.",
+      "Earned Technovation's Gold Certificate for excellence in evaluation and mentorship."
+    ]
+  },
+  {
+    "role": "National Ambassador",
+    "org": "International Youth Math Challenge (IYMC) — Baku, Azerbaijan",
+    "period": "Mar 2026 – Present",
+    "points": [
+      "Represent IYMC (founded 2018; 30,000+ students from 140+ countries) in Azerbaijan. Every participant solves the same problems from the first round, giving students worldwide a fair international stage.",
+      "Spearheaded local promotion and organized peer study groups, guiding participants through the Qualification and Pre-Final rounds."
+    ]
+  }
   ],
 
   "awards": [
