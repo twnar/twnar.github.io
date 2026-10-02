@@ -136,11 +136,11 @@
 
   "languages": [
     { "name": "Azerbaijani", "level": "Native" },
-    { "name": "Turkish", "level": "Fluent" },
-    { "name": "English", "level": "Fluent" }
+    { "name": "Turkish", "level": "C1" },
+    { "name": "English", "level": "C1; TOEFL iBT 5.0 / 6.0" }
   ],
 
-  "hobbies": ["Plant Growing & Gardening", "Violin", "Piano", "Cooking"],
+  "hobbies": ["Mathematics", "Robotics", "Programming", "Research", "Books", "Competitions", "Theatre", "Violin", "Piano", "Plant Growing & Gardening", "Cooking"],
 
   "links": {
     "email": "mailto:twnarx@gmail.com",
