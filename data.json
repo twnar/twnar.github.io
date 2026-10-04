@@ -28,7 +28,7 @@
     { "title": "International Science and Engineering Fair (ISEF), National Round", "detail": "Bronze Medal (1,500+ participants)", "year": "2026" },
     { "title": "International AI Challenge for Children and Youth, Main Stage", "detail": "Finalist (ongoing, 10,000+ participants)", "year": "2026" },
     { "title": "NASA Space Apps Challenge", "detail": "Galactic Problem Solver (114,000+ participants)", "year": "2025" },
-    { "title": "National Science Olympiads", "detail": "Finalist — Astronomy, Statistics (2025–2026); Semi-Finalist — Mathematics, Computer Science, Physics, Chemistry (2023–2026)", "year": "2023–2026" }
+    { "title": "National Science Olympiads", "detail": "Finalist — Astronomy, Statistics (2025–2026); Semi-Finalist — Mathematics, Computer Science, Physics, Chemistry (2023–2026) (73,000+ participants)", "year": "2023–2026" }
   ],
 
   "projects": [
@@ -136,7 +136,7 @@
   "languages": [
     { "name": "Azerbaijani", "level": "Native" },
     { "name": "Turkish", "level": "C1" },
-    { "name": "English", "level": "C1; TOEFL iBT 5.0 / 6.0" }
+    { "name": "English", "level": "C1; TOEFL iBT 100 / 120" }
   ],
 
   "hobbies": ["Mathematics", "Robotics", "Programming", "Research", "Books", "Competitions", "Theatre", "Violin", "Piano", "Plant Growing & Gardening", "Cooking"],
