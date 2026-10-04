@@ -130,7 +130,7 @@
     { "name": "Elements of AI", "org": "University of Helsinki" },
     { "name": "Machine Learning Introduction for Everyone (Coursera)", "org": "IBM" },
     { "name": "Programming for Everybody (Coursera)", "org": "University of Michigan" },
-    { "name": "Arduino & Microcontrollers (MCUs)", "org": "METU (ODTÜ)" }
+    { "name": "Introduction to Microcontrollers with Arduino", "org": "METU (ODTÜ)" }
   ],
 
   "languages": [
