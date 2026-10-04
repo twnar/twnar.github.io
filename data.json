@@ -34,7 +34,7 @@
   "projects": [
     {
       "title": "NeuroQuit: An EEG-Based Wearable for Early Nicotine Craving Detection",
-      "tag": "Team project — The Junior Academy, The New York Academy of Sciences",
+      "tag": "Team project (ongoing) — The Junior Academy, The New York Academy of Sciences",
       "year": "2026",
       "description": "Proposed a non-invasive, ear-worn EEG wearable that uses AI to detect early nicotine craving before smoking occurs, addressing the gap that most cessation methods intervene only after a person has decided to smoke. Designed a multimodal approach: per-user calibration on baseline and controlled-craving EEG data, machine-learning analysis of alpha and theta activity, and fusion with heart rate and galvanic skin response to reduce false alerts. Concept includes real-time voice prompts and daily craving reports for users and clinicians, with evaluation planned on detection accuracy, precision, recall, and false-alert rate; positioned as an assistive intervention, not a cure. ",
       "link": "",
